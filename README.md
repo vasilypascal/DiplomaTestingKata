@@ -1,0 +1,2 @@
+# DiplomaTestingKata
+UnitTesting
